@@ -11,7 +11,7 @@
 </head>
 <body>
 <main class="site-content">
-    <h1>Hello World!</h1><br>
+    <h1>Hello Cat!</h1><br>
     <h4>Just a test:</h4>
     <button type="button" id="buttonbutton">What is a frog's favorite drink?</button>
     <p id="paragraph"></p>
